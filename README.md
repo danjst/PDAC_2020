@@ -1,6 +1,6 @@
 # Supplementary Code and Scripts
 
-Contains code associated with the manuscript "Intron retention is a robust marker of intertuomral heterogeneity in pancreatic ductal adenocarcinoma" (2020) Tan et al.
+Contains code associated with the manuscript "Intron retention is a robust marker of intertuomral heterogeneity in pancreatic ductal adenocarcinoma" Tan et al. (2020)
 
 1. NMF_code.R : R workflow for running Non-negative matrix factorization (NMF) algorithms on 76 high purity PDAC tumor samples. In addition to clustering samples and extracting top NMF events. 
 2. Metrics_Formulas.R: R script that contains formulas for calcuating the following clustering metrics: RMSSTD, R-squared, and SD Index. 
